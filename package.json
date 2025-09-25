@@ -8,11 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "file-type": "^21.0.0",
+    "formidable": "^3.5.3",
     "next": "13.5.2",
+    "openai": "^4.34.0",
+    "pdfjs-dist": "^5.4.149",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tesseract.js": "^4.1.1",
-    "formidable": "^3.5.3",
-    "openai": "^4.34.0"
+    "tesseract.js": "^4.1.1"
   }
 }
